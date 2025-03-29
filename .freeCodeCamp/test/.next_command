@@ -47,3 +47,5 @@ ls --color=auto -lchmod +x
 ls --color=auto -lchmod +x questionnaire.sh
 chmod +x questionnaire.sh
 ls --color=auto -l
+__vsc_prompt_cmd_original
+./questionnaire.sh
