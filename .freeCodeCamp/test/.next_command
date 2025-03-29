@@ -71,3 +71,5 @@ ls --color=auto -l
 ./questionnaire.sh
 __vsc_prompt_cmd_original
 echo --help
+--help echo--help echo
+man echo
