@@ -46,3 +46,4 @@ ls --color=auto
 ls --color=auto -lchmod +x
 ls --color=auto -lchmod +x questionnaire.sh
 chmod +x questionnaire.sh
+ls --color=auto -l
