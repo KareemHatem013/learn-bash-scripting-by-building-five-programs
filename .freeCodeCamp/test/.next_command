@@ -42,3 +42,7 @@ which bash
 ./questinaire.sh
 ./questionnaire.sh
 ls --color=auto -l
+ls --color=auto
+ls --color=auto -lchmod +x
+ls --color=auto -lchmod +x questionnaire.sh
+chmod +x questionnaire.sh
