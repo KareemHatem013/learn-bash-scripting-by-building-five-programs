@@ -183,3 +183,4 @@ ls --color=auto
 ./countdown.sh 5
 man help
 help
+help [[ expression ]]
