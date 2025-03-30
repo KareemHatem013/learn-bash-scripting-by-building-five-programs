@@ -93,3 +93,4 @@ man echo
 ./questionnaire.sh
 ls --color=auto
 touch countdown.sh
+chmod +x countdown.sh
