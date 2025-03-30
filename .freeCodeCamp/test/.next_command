@@ -108,3 +108,5 @@ man
 man man
 man if
 help if
+./countdown.sh
+./countdown.sh arg1
