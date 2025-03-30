@@ -178,3 +178,6 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto
 ./countdown.sh
 ./countdown.sh 4
+./countdown.sh
+./countdown.sh 3
+./countdown.sh 5
