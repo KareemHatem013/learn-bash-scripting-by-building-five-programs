@@ -210,3 +210,7 @@ help test
 [[ -a countdown.sh ]]
 [[ -a countdow.sh ]]
 [[ -a bad_file.txt ]]
+ls --color=auto -l
+ls --color=auto -l countdown.sh
+help test
+[[ -x countdown.sh ]]
