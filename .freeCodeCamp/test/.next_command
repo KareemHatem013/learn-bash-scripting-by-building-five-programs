@@ -208,3 +208,5 @@ ls --color=auto -y
 __vsc_prompt_cmd_original
 help test
 [[ -a countdown.sh ]]
+[[ -a countdow.sh ]]
+[[ -a bad_file.txt ]]
