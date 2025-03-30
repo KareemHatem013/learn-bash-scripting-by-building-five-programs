@@ -91,3 +91,5 @@ man echo
 man echo
 ./questionnaire.sh
 ./questionnaire.sh
+ls --color=auto
+touch countdown.sh
