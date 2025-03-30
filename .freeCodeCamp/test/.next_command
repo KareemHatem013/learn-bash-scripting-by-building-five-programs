@@ -97,3 +97,6 @@ chmod +x countdown.sh
 ls --color=auto -l
 ./countdown.sh
 ls --color=auto
+./countdown.sh
+kareem
+./countdown.sh
