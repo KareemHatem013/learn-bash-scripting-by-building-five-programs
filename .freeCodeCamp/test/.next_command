@@ -192,3 +192,7 @@ echo $?
 echo $?
 __vsc_prompt_cmd_original
 [[ 4 -ge 5 ]]
+[[ 10 != 5 ]]
+[[ 10 != 5 ]]
+__vsc_prompt_cmd_original
+[[ 10 -ne 5 ]]
