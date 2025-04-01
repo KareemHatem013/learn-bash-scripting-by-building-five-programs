@@ -436,3 +436,5 @@ sleep 3
 ./countdown.sh 1
 ./countdown.sh 1
 help while
+./countdown 5
+./countdown.sh 5
