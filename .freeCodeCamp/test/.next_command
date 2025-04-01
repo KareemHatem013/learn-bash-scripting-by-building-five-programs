@@ -285,3 +285,8 @@ __vsc_prompt_cmd_original
 ./countdown.sh 5
 ./countdown.sh 1
 ./countdown.sh 0
+help help
+help loop
+help for
+help test
+help
