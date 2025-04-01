@@ -612,3 +612,5 @@ help test
 ./fortune.sh tes
 help [[ == ]]
 [[ hello == hello ]]
+[[ hello == w ]]
+[[ hello == world ]]
