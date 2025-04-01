@@ -293,3 +293,4 @@ help
 ./countdown.sh 10
 help test
 help
+ls --color=auto /
