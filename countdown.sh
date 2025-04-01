@@ -11,6 +11,7 @@ I=$1
 while [[ $I -ge 0 ]]
 do
   echo $I
+  (( I-- ))
 done
 : '
   for (( i = $1; i >= 0; i-- ))
