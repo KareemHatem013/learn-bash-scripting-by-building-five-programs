@@ -4,7 +4,6 @@ echo -e "\n~~ Bingo Number Generator ~~\n"
 I=1
 NUMBER=$(( RANDOM % 75  + 1))
 TEXT="The next number is,"
-NUMBER=40;
 if (( NUMBER <= 15 ))
 then
   echo $TEXT B:$NUMBER
@@ -14,4 +13,7 @@ then
 elif (( $NUMBER < 46 ))
 then
   echo $TEXT N:$NUMBER
+elif [[ $NUMBER -lt 61 ]]
+then
+  echo $TEXT G:$NUMBER
 fi
