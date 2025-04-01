@@ -602,3 +602,8 @@ help
 help function
 ./fortune.sh
 ./fortune.sh
+help test
+help read
+help do
+man read
+help
