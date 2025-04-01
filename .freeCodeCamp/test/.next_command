@@ -611,3 +611,4 @@ help until
 help test
 ./fortune.sh tes
 help [[ == ]]
+[[ hello == hello ]]
