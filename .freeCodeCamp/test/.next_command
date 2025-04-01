@@ -609,3 +609,4 @@ man read
 help
 help until
 help test
+./fortune.sh tes
