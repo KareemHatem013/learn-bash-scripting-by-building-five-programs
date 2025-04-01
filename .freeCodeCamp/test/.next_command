@@ -489,3 +489,7 @@ I=0
 echo $I
 (( I++ ))
 echo $I
+(( ++I ))
+echo $I
+__vsc_prompt_cmd_original
+help let
