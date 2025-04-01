@@ -294,3 +294,4 @@ help
 help test
 help
 ls --color=auto /
+ls --color=auto /bin
