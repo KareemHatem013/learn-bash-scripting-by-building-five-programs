@@ -505,3 +505,7 @@ echo $I
 J=$(( I - 6 ))
 echo J
 echo $J
+__vsc_prompt_cmd_original
+J=5
+echo J*5 + 25
+echo $((J*5 + 25))
