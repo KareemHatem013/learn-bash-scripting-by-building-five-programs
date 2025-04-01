@@ -281,3 +281,6 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 __vsc_prompt_cmd_original
 [[ -x countdown.sh || 5 -le 4 ]]
 ./countdown.sh
+./countdown.sh
+./countdown.sh 5
+./countdown.sh 1
