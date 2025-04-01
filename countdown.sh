@@ -6,6 +6,6 @@ then
   do
     echo $i
   done
-else
+elseا
   echo Include a positive integer as the first argument.
 fi
